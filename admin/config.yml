@@ -1,0 +1,49 @@
+backend:
+  name: github
+  repo: decentralizedfundingjp/knowledgebase   # GitHubリポジトリ
+  branch: main                       # デフォルトブランチ
+  # 必要に応じて、認証やAPIの設定を追加
+
+media_folder: "static/img"           # 画像等メディアの保存先 (任意)
+public_folder: "/img"
+
+# ↑ 画像ファイルの配置を特に変えたくない場合、/static/imgなど
+# フォルダ作成が面倒なら一旦省略してもOK
+
+# ↓ collectionsセクションで各フォルダを定義
+collections:
+  - name: "docs"
+    label: "docs"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
+
+  - name: "nomodertour"
+    label: "nomodertour"
+    folder: "nomodertour"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
+
+  - name: "noto"
+    label: "noto"
+    folder: "noto"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
+
+  - name: "tonotameno"
+    label: "tonotameno"
+    folder: "tonotameno"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
