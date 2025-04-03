@@ -1,23 +1,30 @@
-# Table of contents
+# 目次
 
-* [knowledgebase](README.md)
-* [はじめに](docs/README.md)
-  * [背景](docs/introduction.md)
-  * [ガイドブックの目的](docs/gaidobukkuno.md)
-  * [対象読者](docs/dui-xiang-du-zhe.md)
-  * [本書の活用方法](docs/no.md)
-* [分散型資金分配の意義と目的](noto/README.md)
-  * [分散型資金分配とは](noto/toha.md)
-  * [分散型資金分配で実現する変化](noto/desuru.md)
-  * [長期的なビジョン](noto/nabijon.md)
-* [分散型資金分配のモデルと実践](nomoderuto/README.md)
-  * [冒頭: 分散型資金分配モデルの早見表とまとめ](nomoderuto/moderunotomatome.md)
-  * [Quadratic Funding (QF)](nomoderuto/quadratic-funding-qf.md)
-  * [Quadratic Voting (QV)](nomoderuto/quadratic-voting-qv.md)
-  * [コミュニティ投票](nomoderuto/komyuniti.md)
-  * [委任型審査会](nomoderuto/wei-ren-xing-shen-cha-hui.md)
-* [ブロックチェーンの活用について](burokkuchnnonitsuite.md)
-* [導入と運用のための注意点](tonotameno/README.md)
-  * [法的課題](tonotameno/fa-de-ke-ti.md)
-  * [実務上の課題](tonotameno/no.md)
-  * [技術的課題](tonotameno/ji-shu-de-ke-ti.md)
+* [はじめに](docs/introduction.md)
+* [ガイドブックの目的](docs/guidebook-purpose.md)
+* [対象読者](docs/target-readers.md)
+* [活用方法](docs/guidebook-usage.md)
+
+## モデル
+
+* [概要](models/model-overview.md)
+* [クアドラティックファンディング](models/model-quadratic-funding.md)
+* [クアドラティックボーティング](models/model-quadratic-voting.md)
+* [コミュニティ投票](models/model-community-voting.md)
+* [委任レビュー](models/model-delegated-review.md)
+
+## 実装
+
+* [ブロックチェーン実装](blockchain-implementation.md)
+* [実装による効果](notes/benefits-implementation.md)
+
+## 課題
+
+* [法的課題](challenges/challenges-legal.md)
+* [技術的課題](challenges/challenges-technical.md)
+* [運用上の課題](challenges/challenges-operational.md)
+
+## ビジョン
+
+* [長期的なビジョン](notes/vision-long-term.md)
+* [分散型資金調達とは](notes/what-is-decentralized-funding.md)
