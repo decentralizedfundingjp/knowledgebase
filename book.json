@@ -1,25 +1,17 @@
 {
   "language": "ja",
-  "languages": ["ja", "en"],
-  "plugins": [
-    "theme-default",
-    "language-picker"
-  ],
-  "pluginsConfig": {
-    "language-picker": {
-      "buttonText": "Language",
-      "buttonClass": "btn btn-primary",
-      "buttonStyle": "background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;"
-    }
+  "languages": {
+    "ja": "日本語",
+    "en": "English"
   },
+  "plugins": [
+    "theme-default"
+  ],
   "styles": {
     "website": "styles/website.css"
   },
   "structure": {
     "readme": "ja/README.md",
     "summary": "ja/SUMMARY.md"
-  },
-  "variables": {
-    "language": "ja"
   }
 } 
