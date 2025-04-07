@@ -1,13 +1,19 @@
 {
   "language": "ja",
   "languages": ["ja", "en"],
-  "plugins": ["theme-default", "language-picker"],
+  "plugins": [
+    "theme-default",
+    "language-picker"
+  ],
   "pluginsConfig": {
     "language-picker": {
       "buttonText": "Language",
       "buttonClass": "btn btn-primary",
       "buttonStyle": "background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;"
     }
+  },
+  "styles": {
+    "website": "styles/website.css"
   },
   "structure": {
     "readme": "ja/README.md",
