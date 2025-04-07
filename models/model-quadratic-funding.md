@@ -15,6 +15,8 @@
 * 募集対象となるプロジェクト事業者と連携可能であること
 * 寄付者にリーチする手段
 
+***
+
 #### 概要
 
 Quadratic Funding (QF) は、寄付者の寄付額の平方根を基に影響力を算出し、マッチングファンドから追加資金を配分する資金分配モデルです。特に、少額寄付が集まったプロジェクトの影響力を相対的に高める設計が特徴です。これにより、大規模寄付者だけでなく、小口寄付者の意見も資金分配に大きな影響を与える仕組みを実現します。
@@ -41,8 +43,10 @@ Quadratic Funding (QF) は、寄付者の寄付額の平方根を基に影響力
 
 **ユニセフ × Gitcoin: 社会課題解決へのQF導入**
 
-ユニセフは、Gitcoinと協力してQFを用いたパイロットプログラムを実施しました。この取り組みでは以下の成果が得られました：
+**背景**
+* ユニセフは、Gitcoinと協力してQFを用いたパイロットプログラムを実施
 
+**運用プロセス**
 * プロジェクトの選定
   * ブロックチェーンやAIを活用した社会貢献プロジェクト10件を対象に選定
 * マッチングファンドの活用
@@ -59,22 +63,14 @@ Quadratic Funding (QF) は、寄付者の寄付額の平方根を基に影響力
    * 助成のテーマ（環境、子供の貧困、デジタル公共財など）や対象領域を明確にし、予算を確保
    * マッチングファンドを組成する
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUqe5cLV0QSYWN0GWj7Z6oRIFqqfUUL-Zg1giRUh64zsZE67O4pSln_1LmLl3v7ldVzDVsM6HAUtitc35QhIU3xFhAdSAs-j1PUUtCnlJ4nRwoqtQu-jipE527Fc9ZAOKoqWyg?key=6tXFggTCyH1LuFr2_Qn6gfEM)
-
 2. 応募団体の募集
    * 募集要項を設定し、応募団体を募集する
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPK9QWWVeH0egDuqVoV_GZ66RDYNxt19l2dgsrarn7DX5sx8wnE6Qkpif9RJYVS1sos1YPoi4kq6e1ufGlRG5tst0dNC6xhxX7qBslyKNkLBiNpYDuo72AYwZBtYEcVC_1XXlGfg?key=6tXFggTCyH1LuFr2_Qn6gfEM)
 
 3. 寄付の募集
    * クラウドファンディングのような形式で一般寄付を募り、価値を感じる助成先に自由な額の寄付を行う
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8LZ27lAIhHgbiMWepPHt8Q0Zz6X9i-bZLKQLqKm4GFNNRKdlJAQXQLUvsBdJmFmYhbDpsRBCYInwddS_mYiGjmv_bz7Gt_dEf4G9hAyKTdnHLeQc862nSwgnNTHN1GazYUr2BPQ?key=6tXFggTCyH1LuFr2_Qn6gfEM)
-
 4. マッチングファンドの分配
    * 寄付された金額の平方根をとった値で重みづけされた金額をマッチングファンドから各助成先に分配
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdSV5_cbdMzG2MwvwvNiBujYPZ_Q35e5mxAsuZ5gnF4YhM3WXLa_ZDdf_kC9F-jex7qXA_1ZYAUgkLWPVyECZfp9uSQs6rhm1JLH7F7KHyYlBlcpibC2Hil8Fe1KcpslAgJ6Q9_jQ?key=6tXFggTCyH1LuFr2_Qn6gfEM)
 
 ***
 
@@ -119,6 +115,6 @@ Quadratic Funding (QF) は、寄付者の寄付額の平方根を基に影響力
 
 上記の例では同じ寄付額でも10倍の投票力を生み出してしまいます。
 
-これを解決するためには、KYCシステムの導入などにより、一人当たり一アカウントにできる仕組みが必要になります。
+これを解決するためには、KYCシステムの導入などにより、一人当たり一アカウントにできる仕組みが必要になります
 
 \
