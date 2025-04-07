@@ -3,6 +3,7 @@
     top: 20px;
     right: 20px;
     z-index: 1000;
+    display: block !important;
 }
 
 .language-picker .btn {
@@ -17,6 +18,7 @@
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 4px;
+    visibility: visible !important;
 }
 
 .language-picker .dropdown-menu {
@@ -27,6 +29,7 @@
     border: 1px solid rgba(0,0,0,.15);
     border-radius: 4px;
     box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    display: block !important;
 }
 
 .language-picker .dropdown-menu li a {
@@ -41,4 +44,14 @@
 
 .language-picker .dropdown-menu li a:hover {
     background-color: #f5f5f5;
+}
+
+/* Ensure the language picker is always visible */
+#book-search-input {
+    margin-right: 200px !important;
+}
+
+.book-header {
+    position: relative;
+    overflow: visible !important;
 } 

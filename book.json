@@ -18,5 +18,8 @@
   "structure": {
     "readme": "ja/README.md",
     "summary": "ja/SUMMARY.md"
+  },
+  "variables": {
+    "language": "ja"
   }
 } 
