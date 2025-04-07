@@ -36,12 +36,12 @@
 
 ***
 
-* [UNICEF-Gitcoin Quadratic Funding Pilot](unicef-gitcoin-quadratic-funding-pilot.md)
-* [ネオ山古志村プロジェクト](neopurojekuto.md)
-* [Moloch DAO](moloch-dao.md)
-* [Hypercerts](hypercerts.md)
-* [Bankless DAO](bankless-dao.md)
-* [Compound Grants Program 2.0 (CGP 2.0)](compound-grants-program-2.0-cgp-2.0.md)
-* [Giveth](giveth.md)
-* [Project Catalyst](project-catalyst.md)
-* [Gitcoin](gitcoin.md)
+* [UNICEF-Gitcoin Quadratic Funding Pilot](casestudy/unicef-gitcoin-quadratic-funding-pilot.md)
+* [ネオ山古志村プロジェクト](casestudy/neopurojekuto.md)
+* [Moloch DAO](casestudy/moloch-dao.md)
+* [Hypercerts](casestudy/hypercerts.md)
+* [Bankless DAO](casestudy/bankless-dao.md)
+* [Compound Grants Program 2.0 (CGP 2.0)](casestudy/compound-grants-program-2.0-cgp-2.0.md)
+* [Giveth](casestudy/giveth.md)
+* [Project Catalyst](casestudy/project-catalyst.md)
+* [Gitcoin](casestudy/gitcoin.md)
